@@ -1,0 +1,27 @@
+header, main, footer {
+    background-color: #f5a5d5;
+}
+header {
+    color: white;
+    text-align: center;
+    font: arial bold;
+}
+header:hover {
+    color:  black;
+}
+main {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+img {
+    width: 20%;
+}
+body {
+    background-color: #f5a5d5;
+}
+main p {
+    margin-left: 38%;
+    text-align: left;
+    color: black;
+}
