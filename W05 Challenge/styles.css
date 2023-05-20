@@ -1,0 +1,21 @@
+#title {
+    display: block;
+    width: 100%;
+    margin: auto 0;
+    border: 0px;
+    padding: 0px;
+}
+.icon {
+    border-radius: 50%;
+    width: 20%;
+    margin: 5%;
+    border: 0.5em solid;
+    border-color: #3e3e3e;
+}
+main {
+    background-color: rgb(119, 119, 119);
+    padding: 0.5% 5%;
+}
+body {
+    margin: 0;
+}
