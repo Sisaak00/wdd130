@@ -19,6 +19,8 @@ nav a{
 }
 #hero-msg h1{
     text-align: center;
+    color: #e9c46a;
+    font-size: 50px;
 }
 .button-box{
     text-align: center;
@@ -100,9 +102,10 @@ footer{
 }
 h2{
     color: #e9c46a;
-    text-align: center;
-    margin: 0;
+    text-align: left;
+    margin: 25px;
     background-color: #264653;
+    font-size: 30px;
 }
 .msg h2{
     color: #e9c46a;
@@ -195,6 +198,12 @@ main section img {
 .card-img:hover {
     opacity: .6;
     transform: scale(1.1);
+}
+h3 {
+    font-size: 20px;
+    text-align: left;
+    margin-left: 75px;
+    color: #e9c46a;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
